@@ -63,7 +63,7 @@ Netflix Analysis.sql – SQL queries used
 Exploratory Data Analysis of Netflix.docx  
 Abhijeet.csv – Titles dataset  
 AbhijeetA.csv – Cast and crew dataset  
-README.md – Project description (this file)
+README.md – Project description 
 
 ---
 
